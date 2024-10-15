@@ -1,4 +1,5 @@
 The Nrtflix clone project is a static website built using HTML and CSS, replicating the layout and design of the original Netflix homepage.
+
 Features:
 1. Responsive design for desktop, tablet, and mobile devices
 2. Header section with navigation menu and login/signup functionality
